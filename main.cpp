@@ -1,4 +1,4 @@
-/* I forked this SimplexNoise implimentation because I'm tired of not being
+/* I forked this SimplexNoise implementation because I'm tired of not being
  * able to find implementations freely available on the internet.
  * Original source code is available at
  * https://github.com/FastLED/FastLED/blob/master/noise.h
