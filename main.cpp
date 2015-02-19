@@ -1,9 +1,15 @@
-/* Call to the community for help!
- * Who else hates the LACK of Simplex Noise implementations that you
- * just throw on any system and JUST WORK!
+/* I forked this SimplexNoise implimentation because I'm tired of not being
+ * able to find implementations freely available on the internet.
+ * Original source code is available at
+ * https://github.com/FastLED/FastLED/blob/master/noise.h
+ * 
+ * This file is completely self contained with a main() function so that it can
+ * easily be run from the web interfaced C++ compiler / tester located at
+ * https://ideone.com/
  *
- * Well here you go! This is it, the ONE simplex implementation
- * that is going to work with minimal effort.
+ * Adding this code into your solution:
+ * Remove the main() function and paste in, simple as that. Hopefully in
+ * the future I will clean up this solution into header / main.cpp.
  * To seperate out do a copy and paste into your own code. If you can't
  * figure out this step then I can't help you.
  * If you are reading this and you want to seperate the files then please
